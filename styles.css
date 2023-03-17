@@ -17,8 +17,8 @@
  /* border: 3px solid green;*/
 	 position: relative;
 	color:purple;
-	  margin-top: auto;
-  margin-buttom: auto;
+	  margin: auto;
+/*  margin-buttom: auto;*/
 	padding: 100px 0;
 	/*position:relative:*/
 }
