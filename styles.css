@@ -1,22 +1,24 @@
 /*  your css code here. If applicable */
 .content{
 	  font-family: arial;
+	/*text-align: center;*/
 	background-color:lightblue;
-  font-size: 24px;
-  margin: 25px;
+  font-size: 24px; 
+	margin:0%;
   width: 250px;
   height: 250px;
-  outline: solid 2px black;
+  border: solid 2px black;
   /* Setup */
   position: relative;
 	
 }
-.center{
-	  text-align: center;
+.center {
+  text-align: center;
+ /* border: 3px solid green;*/
+	 position: relative;
 	color:purple;
-  /* Center vertically and horizontally */
-  position: absolute;
-  top: 50%;
-  left: 40%;
-	margin: -25px 0 0 -25px;
+	  margin-top: auto;
+  margin-buttom: auto;
+	padding: 100px 0;
+	position:relative:
 }
